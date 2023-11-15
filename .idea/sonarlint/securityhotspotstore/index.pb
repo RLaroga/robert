@@ -15,8 +15,6 @@ I
 src/APractice/StackC.java,2\a\2ab4904e1591c11d613aa2ff2a1251c8497e71e7
 X
 (src/APractice/GeneticsClassAdvance2.java,d\b\db191c4a2c0b63b50fab7afb87d17359ebd57cec
-c
-3src/MOCKITO/service/impl/CalculatorServiceImpl.java,4\8\48dee4760a5d8f5aad73503e9f2b367e8a954752
 X
 (src/APractice/MultilevelInheritance.java,d\e\deb28a789610d424e18fd0911a4e631d8702fd98
 V
@@ -381,8 +379,6 @@ w
 G.idea/sonarlint/issuestore/5/3/53d4232d512385ad0fb48f8be00a1a650074ac07,4\e\4e77a3828ab72beeec5519ea03da442d172d5ddb
 w
 G.idea/sonarlint/issuestore/2/f/2f116c9b6996c81329e1cc75ccd8379e7a1a872a,1\c\1ca20f65e45c74dc78e63bb97d4e57ab61f3787b
-Z
-*src/MOCKITO/service/CalculatorService.java,4\4\446581f28f8bfe4a45c0fc1078c4ab3608411730
 :
 
 robert.iml,f\8\f8f8ccd391567718477ab079c62a7008067030a6

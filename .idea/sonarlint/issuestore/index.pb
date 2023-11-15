@@ -13,8 +13,6 @@ N
 src/APractice/ArrayDequeC.java,b\5\b576e25ad0509ef1d0b15ecec138ee1ed5c686f3
 M
 src/APractice/ArrayListC.java,4\0\404217ed13a2833b3d715d71e5584fd53c180559
-c
-3src/MOCKITO/service/impl/CalculatorServiceImpl.java,4\8\48dee4760a5d8f5aad73503e9f2b367e8a954752
 Y
 )src/APractice/ConstructorOverloading.java,2\d\2d7fa528db4d9b982ca8a4718a1921be7fc53a22
 V
@@ -381,8 +379,6 @@ w
 G.idea/sonarlint/issuestore/5/3/53d4232d512385ad0fb48f8be00a1a650074ac07,4\e\4e77a3828ab72beeec5519ea03da442d172d5ddb
 w
 G.idea/sonarlint/issuestore/2/f/2f116c9b6996c81329e1cc75ccd8379e7a1a872a,1\c\1ca20f65e45c74dc78e63bb97d4e57ab61f3787b
-Z
-*src/MOCKITO/service/CalculatorService.java,4\4\446581f28f8bfe4a45c0fc1078c4ab3608411730
 :
 
 robert.iml,f\8\f8f8ccd391567718477ab079c62a7008067030a6
