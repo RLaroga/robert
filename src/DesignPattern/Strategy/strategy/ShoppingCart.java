@@ -1,6 +1,6 @@
-package DESIGN_PATTERN.STRATEGY_DESIGN_PATTERN.strategy;
+package DesignPattern.Strategy.strategy;
 
-import DESIGN_PATTERN.STRATEGY_DESIGN_PATTERN.service.PaymentStrategy;
+import DesignPattern.Strategy.service.PaymentStrategy;
 
 public class ShoppingCart {
 

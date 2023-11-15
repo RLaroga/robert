@@ -1,9 +1,9 @@
-package DESIGN_PATTERN.STRATEGY_DESIGN_PATTERN.controller;
+package DesignPattern.Strategy.controller;
 
-import DESIGN_PATTERN.STRATEGY_DESIGN_PATTERN.service.Impl.CreditCardPayment;
-import DESIGN_PATTERN.STRATEGY_DESIGN_PATTERN.service.Impl.PayPalPayment;
-import DESIGN_PATTERN.STRATEGY_DESIGN_PATTERN.service.PaymentStrategy;
-import DESIGN_PATTERN.STRATEGY_DESIGN_PATTERN.strategy.ShoppingCart;
+import DesignPattern.Strategy.service.Impl.CreditCardPayment;
+import DesignPattern.Strategy.service.Impl.PayPalPayment;
+import DesignPattern.Strategy.service.PaymentStrategy;
+import DesignPattern.Strategy.strategy.ShoppingCart;
 
 public class MainClass {
 

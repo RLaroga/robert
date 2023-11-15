@@ -1,4 +1,4 @@
-package MOCKITO.service;
+package Mockito.service;
 
 public interface CalculatorService {
 

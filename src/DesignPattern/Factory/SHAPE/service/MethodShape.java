@@ -1,4 +1,4 @@
-package DESIGN_PATTERN.FACTORY_DESIGN_PATTERN.SHAPE.service;
+package DesignPattern.Factory.SHAPE.service;
 
 public interface MethodShape {
 

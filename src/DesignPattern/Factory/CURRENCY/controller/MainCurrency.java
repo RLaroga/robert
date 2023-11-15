@@ -1,8 +1,8 @@
-package DESIGN_PATTERN.FACTORY_DESIGN_PATTERN.CURRENCY.controller;
+package DesignPattern.Factory.CURRENCY.controller;
 
-import DESIGN_PATTERN.FACTORY_DESIGN_PATTERN.CURRENCY.factory.FactoryCurrency;
-import DESIGN_PATTERN.FACTORY_DESIGN_PATTERN.CURRENCY.service.MethodCurrency;
-import DESIGN_PATTERN.FACTORY_DESIGN_PATTERN.CURRENCY.enums.CurrencyEnum;
+import DesignPattern.Factory.CURRENCY.factory.FactoryCurrency;
+import DesignPattern.Factory.CURRENCY.service.MethodCurrency;
+import DesignPattern.Factory.CURRENCY.enums.CurrencyEnum;
 import java.util.Objects;
 
 public class MainCurrency {

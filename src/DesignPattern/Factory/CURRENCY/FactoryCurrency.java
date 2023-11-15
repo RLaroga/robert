@@ -1,4 +1,4 @@
-package DESIGN_PATTERN.FACTORY_DESIGN_PATTERN.CURRENCY;
+package DesignPattern.Factory.CURRENCY;
 
 public class FactoryCurrency {
 

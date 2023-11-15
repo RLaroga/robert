@@ -1,4 +1,4 @@
-package MOCKITO;
+package Mockito;
 
 public class Calculator {
 

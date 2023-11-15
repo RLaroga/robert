@@ -1,7 +1,7 @@
-package DESIGN_PATTERN.STRATEGY_DESIGN_PATTERN.service.Impl;
+package DesignPattern.Strategy.service.Impl;
 
-import DESIGN_PATTERN.FACTORY_DESIGN_PATTERN.CURRENCY.enums.CurrencyEnum;
-import DESIGN_PATTERN.STRATEGY_DESIGN_PATTERN.service.PaymentStrategy;
+import DesignPattern.Factory.CURRENCY.enums.CurrencyEnum;
+import DesignPattern.Strategy.service.PaymentStrategy;
 
 public class PayPalPayment implements PaymentStrategy {
 

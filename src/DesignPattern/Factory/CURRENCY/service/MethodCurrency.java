@@ -1,4 +1,4 @@
-package DESIGN_PATTERN.FACTORY_DESIGN_PATTERN.CURRENCY.service;
+package DesignPattern.Factory.CURRENCY.service;
 
 public interface MethodCurrency {
 

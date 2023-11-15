@@ -1,4 +1,4 @@
-package DESIGN_PATTERN.FACTORY_DESIGN_PATTERN.CURRENCY.enums;
+package DesignPattern.Factory.CURRENCY.enums;
 
 public enum CurrencyEnum {
     PESO("PHP", 1, "₱"),

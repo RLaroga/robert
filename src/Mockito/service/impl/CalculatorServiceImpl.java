@@ -1,6 +1,6 @@
-package MOCKITO.service.impl;
+package Mockito.service.impl;
 
-import MOCKITO.service.CalculatorService;
+import Mockito.service.CalculatorService;
 
 public class CalculatorServiceImpl implements CalculatorService {
 

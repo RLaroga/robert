@@ -1,4 +1,4 @@
-package DESIGN_PATTERN.STRATEGY_DESIGN_PATTERN.service;
+package DesignPattern.Strategy.service;
 
 public interface PaymentStrategy {
 

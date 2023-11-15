@@ -1,7 +1,7 @@
-package DESIGN_PATTERN.FACTORY_DESIGN_PATTERN.CURRENCY.service.impl;
+package DesignPattern.Factory.CURRENCY.service.impl;
 
-import DESIGN_PATTERN.FACTORY_DESIGN_PATTERN.CURRENCY.enums.CurrencyEnum;
-import DESIGN_PATTERN.FACTORY_DESIGN_PATTERN.CURRENCY.service.MethodCurrency;
+import DesignPattern.Factory.CURRENCY.enums.CurrencyEnum;
+import DesignPattern.Factory.CURRENCY.service.MethodCurrency;
 
 public class PHPCurrency implements MethodCurrency {
     @Override

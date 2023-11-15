@@ -1,7 +1,7 @@
-package DESIGN_PATTERN.FACTORY_DESIGN_PATTERN.SHAPE.controller;
+package DesignPattern.Factory.SHAPE.controller;
 
-import DESIGN_PATTERN.FACTORY_DESIGN_PATTERN.SHAPE.factory.FactoryShape;
-import DESIGN_PATTERN.FACTORY_DESIGN_PATTERN.SHAPE.service.MethodShape;
+import DesignPattern.Factory.SHAPE.factory.FactoryShape;
+import DesignPattern.Factory.SHAPE.service.MethodShape;
 
 import java.util.Objects;
 

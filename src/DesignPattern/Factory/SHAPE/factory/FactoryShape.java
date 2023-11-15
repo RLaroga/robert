@@ -1,8 +1,8 @@
-package DESIGN_PATTERN.FACTORY_DESIGN_PATTERN.SHAPE.factory;
+package DesignPattern.Factory.SHAPE.factory;
 
-import DESIGN_PATTERN.FACTORY_DESIGN_PATTERN.SHAPE.service.MethodShape;
-import DESIGN_PATTERN.FACTORY_DESIGN_PATTERN.SHAPE.service.impl.CircleShape;
-import DESIGN_PATTERN.FACTORY_DESIGN_PATTERN.SHAPE.service.impl.RectangleShape;
+import DesignPattern.Factory.SHAPE.service.MethodShape;
+import DesignPattern.Factory.SHAPE.service.impl.CircleShape;
+import DesignPattern.Factory.SHAPE.service.impl.RectangleShape;
 
 public class FactoryShape {
 

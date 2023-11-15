@@ -1,8 +1,8 @@
-package DESIGN_PATTERN.FACTORY_DESIGN_PATTERN.CURRENCY.factory;
+package DesignPattern.Factory.CURRENCY.factory;
 
-import DESIGN_PATTERN.FACTORY_DESIGN_PATTERN.CURRENCY.service.MethodCurrency;
-import DESIGN_PATTERN.FACTORY_DESIGN_PATTERN.CURRENCY.service.impl.PHPCurrency;
-import DESIGN_PATTERN.FACTORY_DESIGN_PATTERN.CURRENCY.service.impl.USDCurrency;
+import DesignPattern.Factory.CURRENCY.service.MethodCurrency;
+import DesignPattern.Factory.CURRENCY.service.impl.PHPCurrency;
+import DesignPattern.Factory.CURRENCY.service.impl.USDCurrency;
 
 public class FactoryCurrency {
 
