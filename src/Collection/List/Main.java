@@ -3,7 +3,7 @@ public class Main {
     public static void main (String [] args) {
         /**
          * What is List?
-         *      - Represents an ordered collection of elemets, allowing duplication values.
+         *      - Represents an ordered collection of elements, allowing duplication values.
          *      It provides methods to add, remove, access, and manipulate elements based on their index.
          *
          * What are the Implementations of List
